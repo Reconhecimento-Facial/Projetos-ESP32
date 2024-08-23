@@ -1,0 +1,14 @@
+dependencies:
+  cmake_utilities:
+    version: 0.*
+  idf:
+    version: '>=4.0'
+description: I2C bus driver
+documentation: https://docs.espressif.com/projects/esp-iot-solution/en/latest/input_device/i2c_bus.html
+issues: https://github.com/espressif/esp-iot-solution/issues
+repository: git://github.com/espressif/esp-iot-solution.git
+repository_info:
+  commit_sha: e2529ce3b0aa6362663b4c53d7e9ba21ff307f49
+  path: components/i2c_bus
+url: https://github.com/espressif/esp-iot-solution/tree/master/components/i2c_bus
+version: 0.1.0
