@@ -1,6 +1,6 @@
 # Driver LIS2DH12 I2C
 
-Este projeto fornece um driver para o acelerômetro LIS2DH12 usando a interface I2C. O driver é implementado em C e projetado para rodar em sistemas embarcados.
+Este projeto fornece um driver para o acelerômetro LIS2DH12 usando a interface I2C. O driver é implementado em C e projetado para rodar na ESP32.
 
 ## Funcionalidades
 
